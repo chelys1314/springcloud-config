@@ -1,1 +1,2 @@
-key=123
+config:
+  info: "测试环境test配置中心配置获取成功"

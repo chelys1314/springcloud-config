@@ -1,2 +1,6 @@
 config:
   info: "测试环境test配置中心配置获取成功"
+
+database:
+  username: "SM4_ocu+7wkmERjuG06ji04dow=="
+  password: "SM4_l/g6z8SVK1z9BRhxFaQHFw=="

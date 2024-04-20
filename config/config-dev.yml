@@ -1,2 +1,6 @@
 config:
   info: "开发环境dev配置中心配置获取成功 123456"
+
+database:
+  username: "SM4_ocu+7wkmERjuG06ji04dow=="
+  password: "SM4_l/g6z8SVK1z9BRhxFaQHFw=="

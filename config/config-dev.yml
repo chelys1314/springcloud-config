@@ -1,5 +1,5 @@
 config:
-  info: "开发环境dev配置中心配置获取成功 update to new "
+  info: "开发环境dev配置中心配置获取成功 集成RabbitMQ "
 
 database:
   username: "SM4_ocu+7wkmERjuG06ji04dow=="

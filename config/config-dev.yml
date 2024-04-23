@@ -1,5 +1,5 @@
 config:
-  info: "开发环境dev配置中心配置获取成功 集成RabbitMQ123 "
+  info: "开发环境dev配置中心配置获取成功 集成RabbitMQ后，刷新bus关联的config配置中心server端，查看client端是否变更 "
 
 database:
   username: "SM4_ocu+7wkmERjuG06ji04dow=="
